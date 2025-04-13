@@ -1,2 +1,2 @@
 # CyberCatStudios.github.io
-Website for all my gizmos.
+Blog I shall use
