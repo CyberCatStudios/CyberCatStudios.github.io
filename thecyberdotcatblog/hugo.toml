@@ -1,0 +1,4 @@
+baseURL = 'https://thecyber.cat/'
+languageCode = 'en-us'
+title = 'thecyber.cat'
+theme = 'ananke'
