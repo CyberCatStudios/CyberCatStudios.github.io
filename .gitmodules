@@ -1,0 +1,3 @@
+[submodule "thecyberdotcatblog/themes/ananke"]
+	path = thecyberdotcatblog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
