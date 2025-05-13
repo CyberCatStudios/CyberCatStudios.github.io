@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/clark/Documents/projects/CyberCatStudios.github.io/thecyberdotcatblog",
+	"sourceRoot": "/home/clark/Documents/projects/CyberCatStudios.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
