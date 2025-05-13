@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on thecyber.cat</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://thecyber.cat/posts/</link>
     <description>Recent content in Posts on thecyber.cat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 May 2025 03:26:49 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thecyber.cat/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstrealpost</title>
-      <link>http://localhost:1313/posts/firstrealpost/</link>
+      <link>https://thecyber.cat/posts/firstrealpost/</link>
       <pubDate>Wed, 14 May 2025 03:26:49 +0400</pubDate>
-      <guid>http://localhost:1313/posts/firstrealpost/</guid>
+      <guid>https://thecyber.cat/posts/firstrealpost/</guid>
       <description>&lt;h1 id=&#34;hey-guys&#34;&gt;Hey Guys!&lt;/h1&gt;&#xA;&lt;p&gt;This is my first real post. I&amp;rsquo;ve finally gottne this dang page to work properly and i am vurry pwowd of mahsewf.&#xA;It&amp;rsquo;ll be short, but I just wanna say thank you to everyone who inpired me to make this. It&amp;rsquo;s a LOT harder than a YouTube channel, but it&amp;rsquo;s still worth the effort. BUHBYEEE!!!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Sussy Post</title>
-      <link>http://localhost:1313/posts/second-sussy-post/</link>
+      <link>https://thecyber.cat/posts/second-sussy-post/</link>
       <pubDate>Wed, 14 May 2025 03:10:59 +0400</pubDate>
-      <guid>http://localhost:1313/posts/second-sussy-post/</guid>
+      <guid>https://thecyber.cat/posts/second-sussy-post/</guid>
       <description>&lt;h1 id=&#34;experimenting-with-markdown&#34;&gt;Experimenting with MARKDOWN&lt;/h1&gt;&#xA;&lt;p&gt;very cool&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lesgo First Post</title>
-      <link>http://localhost:1313/posts/lesgo-first-post/</link>
+      <link>https://thecyber.cat/posts/lesgo-first-post/</link>
       <pubDate>Sun, 11 May 2025 05:11:44 +0400</pubDate>
-      <guid>http://localhost:1313/posts/lesgo-first-post/</guid>
+      <guid>https://thecyber.cat/posts/lesgo-first-post/</guid>
       <description>&lt;p&gt;Hey goys forst post - is test&lt;/p&gt;</description>
     </item>
   </channel>
